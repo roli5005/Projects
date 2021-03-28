@@ -1,0 +1,36 @@
+database/JDBConnectionWrapper.java
+ database.JDBConnectionWrapper
+database/MySQLTableCreationFactory.java
+ database.MySQLTableCreationFactory
+database/DBConnectionFactory.java
+ database.DBConnectionFactory
+database/Constants.java
+ database.Constants
+ database.Constants$Rights
+ database.Constants$Roles
+ database.Constants$Schemas
+ database.Constants$Tables
+model/Role.java
+ model.Role
+model/builder/UserBuilder.java
+ model.builder.UserBuilder
+model/builder/ActivityBuilder.java
+ model.builder.ActivityBuilder
+model/Right.java
+ model.Right
+model/User.java
+ model.User
+model/builder/ClientBuilder.java
+ model.builder.ClientBuilder
+model/Account.java
+ model.Account
+model/Activity.java
+ model.Activity
+model/builder/AccountBuilder.java
+ model.builder.AccountBuilder
+model/Client.java
+ model.Client
+database/Boostraper.java
+ database.Boostraper
+Main.java
+ Main
